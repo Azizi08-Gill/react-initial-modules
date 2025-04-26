@@ -1,0 +1,12 @@
+h1{
+  font-weight: 700;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+input {
+  width: 100%;
+}
+button{
+  min-width: 65px;
+
+}
