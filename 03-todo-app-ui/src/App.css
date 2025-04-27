@@ -1,12 +1,23 @@
-h1{
+h1 {
   font-weight: 700;
   margin-top: 10px;
   margin-bottom: 20px;
 }
+
 input {
   width: 100%;
 }
-button{
-  min-width: 65px;
 
+button {
+  min-width: 65px;
+}
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+  padding: 10px 15px;
 }
